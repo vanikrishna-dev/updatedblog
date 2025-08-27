@@ -1,0 +1,35 @@
+#nav {
+    background-color: rgb(125, 205, 231);
+    padding: 10px;
+    text-align: center;
+}
+#full {
+    background-color:azure;
+}
+#first {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+#second {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+#rights {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
